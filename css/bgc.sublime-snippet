@@ -1,0 +1,6 @@
+<snippet>
+	<content>background: #${1};</content>
+	<tabTrigger>bgc</tabTrigger>
+	<description>bg color</description>
+	<scope>source.css</scope>
+</snippet>

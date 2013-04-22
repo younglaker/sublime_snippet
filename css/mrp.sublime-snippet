@@ -1,0 +1,6 @@
+<snippet>
+	<content>margin-right: ${1}px;</content>
+	<tabTrigger>mrp</tabTrigger>
+	<description>margin-right</description>
+	<scope>source.css</scope>
+</snippet>

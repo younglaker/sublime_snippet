@@ -1,0 +1,6 @@
+<snippet>
+	<content>padding-left: ${1}px;</content>
+	<tabTrigger>plp</tabTrigger>
+	<description>padding-left</description>
+	<scope>source.css</scope>
+</snippet>
