@@ -1,0 +1,6 @@
+<snippet>
+	<content>float: right;</content>
+	<tabTrigger>flr</tabTrigger>
+	<description>float: right</description>
+	<scope>source.css</scope>
+</snippet>

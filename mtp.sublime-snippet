@@ -1,0 +1,6 @@
+<snippet>
+	<content>margin-top: ${1}px;</content>
+	<tabTrigger>mtp</tabTrigger>
+	<description>margin-top</description>
+	<scope>source.css</scope>
+</snippet>

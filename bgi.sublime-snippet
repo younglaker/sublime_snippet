@@ -1,0 +1,6 @@
+<snippet>
+	<content>background: url(../img/${1}) no-repeat;</content>
+	<tabTrigger>bgi</tabTrigger>
+	<description>bg:url</description>
+	<scope>source.css</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content>margin: 0 auto;</content>
+	<tabTrigger>mar0</tabTrigger>
+	<description>margin: 0 auto</description>
+	<scope>source.css</scope>
+</snippet>
