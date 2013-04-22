@@ -1,6 +1,0 @@
-<snippet>
-	<content>margin-left: ${1}px;</content>
-	<tabTrigger>mlp</tabTrigger>
-	<description>margin-left</description>
-	<scope>source.css</scope>
-</snippet>

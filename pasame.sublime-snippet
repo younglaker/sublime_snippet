@@ -1,6 +1,0 @@
-<snippet>
-	<content>padding: ${1}px;</content>
-	<tabTrigger>pasame</tabTrigger>
-	<description>padding</description>
-	<scope>source.css</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content>height: ${1}px;</content>
-	<tabTrigger>hightp</tabTrigger>
-	<description>height</description>
-	<scope>source.css</scope>
-</snippet>

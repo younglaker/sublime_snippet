@@ -1,6 +1,0 @@
-<snippet>
-	<content>border-radius: ${1}px;</content>
-	<tabTrigger>brrsame</tabTrigger>
-	<description>border-radius</description>
-	<scope>source.css</scope>
-</snippet>

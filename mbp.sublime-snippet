@@ -1,6 +1,0 @@
-<snippet>
-	<content>margin-bottom: ${1}px;</content>
-	<tabTrigger>mbp</tabTrigger>
-	<description>margin-bottom</description>
-	<scope>source.css</scope>
-</snippet>

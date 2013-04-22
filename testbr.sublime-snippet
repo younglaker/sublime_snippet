@@ -1,6 +1,0 @@
-<snippet>
-	<content>border: 3px solid #${1};</content>
-	<tabTrigger>testbr</tabTrigger>
-	<description>test border</description>
-	<scope>source.css</scope>
-</snippet>

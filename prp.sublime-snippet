@@ -1,6 +1,0 @@
-<snippet>
-	<content>padding-right: ${1}px;</content>
-	<tabTrigger>prp</tabTrigger>
-	<description>padding-right</description>
-	<scope>source.css</scope>
-</snippet>

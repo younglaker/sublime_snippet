@@ -1,6 +1,0 @@
-<snippet>
-	<content>padding-top: ${1}px;</content>
-	<tabTrigger>ptp</tabTrigger>
-	<description>padding-top</description>
-	<scope>source.css</scope>
-</snippet>

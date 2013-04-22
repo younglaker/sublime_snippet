@@ -1,6 +1,0 @@
-<snippet>
-	<content>margin: ${1}px;</content>
-	<tabTrigger>marsame</tabTrigger>
-	<description>margin</description>
-	<scope>source.css</scope>
-</snippet>

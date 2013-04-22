@@ -1,6 +1,0 @@
-<snippet>
-	<content>width: 100%;</content>
-	<tabTrigger>widthfull</tabTrigger>
-	<description>width100</description>
-	<scope>source.css</scope>
-</snippet>

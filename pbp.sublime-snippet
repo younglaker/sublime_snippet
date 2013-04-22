@@ -1,6 +1,0 @@
-<snippet>
-	<content>padding-bottom: ${1}px;</content>
-	<tabTrigger>pbp</tabTrigger>
-	<description>padding-bottom</description>
-	<scope>source.css</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content>color: #${1};</content>
-	<tabTrigger>colorc</tabTrigger>
-	<description>font color</description>
-	<scope>source.css</scope>
-</snippet>

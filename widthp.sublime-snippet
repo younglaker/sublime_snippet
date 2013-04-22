@@ -1,6 +1,0 @@
-<snippet>
-	<content>width: ${1}px;</content>
-	<tabTrigger>widthp</tabTrigger>
-	<description>width</description>
-	<scope>source.css</scope>
-</snippet>
