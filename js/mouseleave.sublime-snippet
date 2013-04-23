@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[mouseleave(function(){
+	${1:content}
+});]]></content>
+	<tabTrigger>mouseleave</tabTrigger>
+	<scope>source.js</scope>
+	<description>mouseleave</description>
+</snippet>

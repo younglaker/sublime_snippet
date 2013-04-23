@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[mouseenter(function(){
+	${1:content}
+});]]></content>
+	<tabTrigger>mouseenter</tabTrigger>
+	<scope>source.js</scope>
+	<description>mouseenter</description>
+</snippet>

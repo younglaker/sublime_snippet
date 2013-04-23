@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[hover(function(){
+	${1:mouseenter}
+},function(){
+	${2:mouseleave}
+});]]></content>
+	<tabTrigger>hover</tabTrigger>
+	<scope>source.js</scope>
+	<description>hover</description>
+</snippet>
