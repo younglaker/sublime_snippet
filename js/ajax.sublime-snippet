@@ -3,13 +3,13 @@
 	type: "${1:1POST/GET}",
 	url: "${2:2root_path}",
 	data: {
-		${3:data_name}: ${3:3data_val}
+		${3:3data_name}: ${4:4data_val}
 	}
 }).done(function(msg) {
-	${4:4content}
-}).fail(function() {
 	${5:5content}
-};]]></content>
+}).fail(function() {
+	${6:6content}
+]]></content>
 	<tabTrigger>ajax</tabTrigger>
 	<scope>source.js</scope>
 	<description>ajax</description>

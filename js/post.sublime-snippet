@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[\$.post("${1:1root_path}", { 
-	${2:2data_name}: ${3:3Data_val}
+	${2:2data_name}: ${3:3data_val}
 },
 function(msg){
     ${4:4content}
