@@ -1,7 +1,7 @@
 ## Here is the format of this doc
 
 ### shotcut name
-the content
+the content will display if you use this shotcut
 
 > the ${num} means when you press "tab" key, the the cursor moving order.
 
