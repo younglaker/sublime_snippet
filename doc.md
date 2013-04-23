@@ -152,17 +152,17 @@ width: ${1}px;
        type: "${1:1POST/GET}",
        url: "${2:2root_path}",
        data: {
-           ${3:data_name}: ${3:3data_val}
+           ${3:data_name}: ${4:5data_val}
        }
     }).done(function(msg) {
-        ${4:4content}
-    }).fail(function() {
         ${5:5content}
+    }).fail(function() {
+        ${6:6content}
     };
 
 ### get
     $.get("${1:1root_path}", { 
-        ${2:2data_name}: ${3:3Data_val}
+        ${2:2data_name}: ${3:3data_val}
     },
     function(msg){
         ${4:4content}
@@ -170,7 +170,7 @@ width: ${1}px;
     
 ### post
     $.post("${1:1root_path}", { 
-        ${2:2data_name}: ${3:3Data_val}
+        ${2:2data_name}: ${3:3data_val}
     },
     function(msg){
         ${4:4content}
