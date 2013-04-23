@@ -92,7 +92,7 @@ width: ${1}px;
 
 - - - 
 
-## JacaScript snippet
+## JavaScript snippet
     
 ### animate
     animate({"${1:property}": "${2:val}"}, ${3:time})
@@ -146,3 +146,32 @@ width: ${1}px;
        case "${2:2}": ${3:3}; break;
        case "${4:4}": ${5:5}; break;
     }
+    
+### ajax
+    $.ajax({
+       type: "${1:1POST/GET}",
+       url: "${2:2root_path}",
+       data: {
+           ${3:data_name}: ${3:3data_val}
+       }
+    }).done(function(msg) {
+        ${4:4content}
+    }).fail(function() {
+        ${5:5content}
+    };
+
+### get
+    $.get("${1:1root_path}", { 
+        ${2:2data_name}: ${3:3Data_val}
+    },
+    function(msg){
+        ${4:4content}
+    });
+    
+### post
+    $.post("${1:1root_path}", { 
+        ${2:2data_name}: ${3:3Data_val}
+    },
+    function(msg){
+        ${4:4content}
+    });
