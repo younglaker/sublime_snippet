@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[$.ajax({
+	type: "POST",
+	url: "",
+	data: {}
+}).done(function(msg) {	
+}).fail(function() {
+};]]></content>
+	<tabTrigger>ajax</tabTrigger>
+	<scope>source.js</scope>
+	<description>ajax</description>
+</snippet>

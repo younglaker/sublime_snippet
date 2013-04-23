@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[$.get("", function(data) {
+});]]></content>
+	<tabTrigger>get</tabTrigger>
+	<scope>source.js</scope>
+	<description>get</description>
+</snippet>

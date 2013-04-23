@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[function ${1:name}(${2:arg}) {
     ${3}
-};]]></content>
+}]]></content>
 	<tabTrigger>funlk</tabTrigger>
 	<scope>source.js</scope>
 	<description>function lk</description>
