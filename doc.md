@@ -92,3 +92,57 @@ width: ${1}px;
 
 - - - 
 
+## JacaScript snippet
+
+### animate
+animate({"${1:property}": "${2:val}"}, ${3:time})
+
+### docready
+    $(document).ready(function() {  
+       aaa
+    });
+
+### funlk
+    function ${1:name}(${2:arg}) { 
+       ${3}
+    }
+
+### hover
+    hover(function(){
+       ${1:mouseenter}
+    },function(){
+       ${2:mouseleave}
+    });
+
+### mouseenter
+    mouseenter(function(){
+       ${1:content}
+    });
+
+### mouseleave
+    mouseleave(function(){
+       ${1:content}
+    });
+    
+### selector
+    $("${1:name}").${2:fun}
+
+### setInterval
+    ${1:arg} = setInterval(
+       function() {
+           ${2:content}  
+        }, ${3:time}
+    );
+
+### setTimeout
+    ${1:arg} = setTimeout(
+       function() {
+           ${2:content}  
+        }, ${3:time}
+    );
+    
+### switch
+    switch(${1:1}) {
+       case "${2:2}": ${3:3}; break;
+       case "${4:4}": ${5:5}; break;
+    }
