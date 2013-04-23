@@ -1,7 +1,11 @@
 <snippet>
-	<content><![CDATA[$.get("", function(data) {
+	<content><![CDATA[\$.get("${1:root_path}", { 
+	${2:data_name}: ${3:Data_val}
+	},
+	function(msg){
+      ${4:content}
 });]]></content>
 	<tabTrigger>get</tabTrigger>
 	<scope>source.js</scope>
-	<description>get</description>
+	<description>ajax get</description>
 </snippet>
