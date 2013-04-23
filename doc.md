@@ -93,9 +93,9 @@ width: ${1}px;
 - - - 
 
 ## JacaScript snippet
-
+    
 ### animate
-animate({"${1:property}": "${2:val}"}, ${3:time})
+    animate({"${1:property}": "${2:val}"}, ${3:time})
 
 ### docready
     $(document).ready(function() {  
