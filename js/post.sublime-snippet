@@ -1,9 +1,9 @@
 <snippet>
-	<content><![CDATA[\$.post("${1:root_path}", { 
-	${2:data_name}: ${3:Data_val}
-	},
-	function(msg){
-      ${4:content}
+	<content><![CDATA[\$.post("${1:1root_path}", { 
+	${2:2data_name}: ${3:3Data_val}
+},
+function(msg){
+    ${4:4content}
 });]]></content>
 	<tabTrigger>post</tabTrigger>
 	<scope>source.js</scope>
