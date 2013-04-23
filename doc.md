@@ -3,6 +3,8 @@
 ### shotcut name
 the content
 
+> the ${num} means when you press "tab" key, the the cursor moving order.
+
 - - - 
 
 ## CSS snippet
