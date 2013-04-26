@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fadeToggle(${1:time})]]></content>
+	<tabTrigger>fadeToggle</tabTrigger>
+	<scope>source.js</scope>
+	<description>fadeToggle</description>
+</snippet>

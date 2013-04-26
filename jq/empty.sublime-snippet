@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[empty()]]></content>
+	<tabTrigger>empty</tabTrigger>
+	<scope>source.js</scope>
+	<description>empty</description>
+</snippet>

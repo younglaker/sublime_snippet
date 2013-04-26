@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[each(function(index) {
+	${1:func}
+});]]></content>
+	<tabTrigger>each</tabTrigger>
+	<scope>source.js</scope>
+	<description>each</description>
+</snippet>

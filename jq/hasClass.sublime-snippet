@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[hasClass("${1:1class_name}")]]></content>
+	<tabTrigger>hasClass</tabTrigger>
+	<scope>source.js</scope>
+	<description>hasClass</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[first()]]></content>
+	<tabTrigger>first</tabTrigger>
+	<scope>source.js</scope>
+	<description>first</description>
+</snippet>
