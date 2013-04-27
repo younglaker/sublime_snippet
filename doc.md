@@ -93,6 +93,35 @@ width: ${1}px;
 - - - 
 
 ## JavaScript snippet
+
+### funlk
+    function ${1:name}(${2:arg}) { 
+       ${3}
+    }
+
+### setInterval
+    ${1:arg} = setInterval(
+       function() {
+           ${2:content}  
+        }, ${3:time}
+    );
+
+### setTimeout
+    ${1:arg} = setTimeout(
+       function() {
+           ${2:content}  
+        }, ${3:time}
+    );
+    
+### switch
+    switch(${1:1}) {
+       case "${2:2}": ${3:3}; break;
+       case "${4:4}": ${5:5}; break;
+    }
+
+- - - 
+
+## jQuery snippet
     
 ### animate
     animate({"${1:property}": "${2:val}"}, ${3:time})
@@ -101,11 +130,6 @@ width: ${1}px;
     $(document).ready(function() {  
        aaa
     });
-
-### funlk
-    function ${1:name}(${2:arg}) { 
-       ${3}
-    }
 
 ### hover
     hover(function(){
@@ -127,26 +151,6 @@ width: ${1}px;
 ### selector
     $("${1:name}").${2:fun}
 
-### setInterval
-    ${1:arg} = setInterval(
-       function() {
-           ${2:content}  
-        }, ${3:time}
-    );
-
-### setTimeout
-    ${1:arg} = setTimeout(
-       function() {
-           ${2:content}  
-        }, ${3:time}
-    );
-    
-### switch
-    switch(${1:1}) {
-       case "${2:2}": ${3:3}; break;
-       case "${4:4}": ${5:5}; break;
-    }
-    
 ### ajax
     $.ajax({
        type: "${1:1POST/GET}",
