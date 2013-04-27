@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[mouseover(function(){
+	${1:func}
+});]]></content>
+	<tabTrigger>mouseover</tabTrigger>
+	<scope>source.js</scope>
+	<description>mouseover</description>
+</snippet>

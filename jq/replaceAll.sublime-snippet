@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[replaceAll("${1:newContent}")]]></content>
+	<tabTrigger>replaceAll</tabTrigger>
+	<scope>source.js</scope>
+	<description>replaceAll</description>
+</snippet>

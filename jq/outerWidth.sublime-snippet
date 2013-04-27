@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[outerWidth()]]></content>
+	<tabTrigger>outerWidth</tabTrigger>
+	<scope>source.js</scope>
+	<description>outerWidth()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[offset()]]></content>
+	<tabTrigger>offset</tabTrigger>
+	<scope>source.js</scope>
+	<description>offset()</description>
+</snippet>

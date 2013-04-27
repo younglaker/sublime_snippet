@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[removeClass("[${1:className}]")]]></content>
+	<tabTrigger>removeClass</tabTrigger>
+	<scope>source.js</scope>
+	<description>removeClass</description>
+</snippet>

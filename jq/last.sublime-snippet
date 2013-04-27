@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[last()]]></content>
+	<tabTrigger>last</tabTrigger>
+	<scope>source.js</scope>
+	<description>last()</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[mousemove(function(){
+	${1:func}
+});]]></content>
+	<tabTrigger>mousemove</tabTrigger>
+	<scope>source.js</scope>
+	<description>mousemove</description>
+</snippet>
