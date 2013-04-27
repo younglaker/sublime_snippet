@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[jQuery()]]></content>
+	<tabTrigger>jQuery</tabTrigger>
+	<scope>source.js</scope>
+	<description>jQuery</description>
+</snippet>

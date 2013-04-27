@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[blur()]]></content>
+	<tabTrigger>blur</tabTrigger>
+	<scope>source.js</scope>
+	<description>blur</description>
+</snippet>

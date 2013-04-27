@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[mouseleave(function(){
-	${1:content}
+	${1:func}
 });]]></content>
 	<tabTrigger>mouseleave</tabTrigger>
 	<scope>source.js</scope>

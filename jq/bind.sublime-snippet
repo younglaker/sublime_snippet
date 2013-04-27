@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[bind(${1:1event}, function(){
+	${2:2func}
+});]]></content>
+	<tabTrigger>bind</tabTrigger>
+	<scope>source.js</scope>
+	<description>bind</description>
+</snippet>

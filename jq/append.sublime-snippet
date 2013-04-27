@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[append("${1:content}")]]></content>
+	<tabTrigger>append</tabTrigger>
+	<scope>source.js</scope>
+	<description>append</description>
+</snippet>

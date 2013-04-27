@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[change(function(){
+	${1:func}
+});]]></content>
+	<tabTrigger>change</tabTrigger>
+	<scope>source.js</scope>
+	<description>change</description>
+</snippet>

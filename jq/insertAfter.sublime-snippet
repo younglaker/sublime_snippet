@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[insertAfter("${1:selector}")]]></content>
+	<tabTrigger>insertAfter</tabTrigger>
+	<scope>source.js</scope>
+	<description>insertAfter</description>
+</snippet>
