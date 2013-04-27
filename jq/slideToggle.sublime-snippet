@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[slideToggle()]]></content>
+	<tabTrigger>slideToggle</tabTrigger>
+	<scope>source.js</scope>
+	<description>slideToggle</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[unbind()]]></content>
+	<tabTrigger>unbind</tabTrigger>
+	<scope>source.js</scope>
+	<description>unbind</description>
+</snippet>

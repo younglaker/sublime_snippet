@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[wrapAll("${1:content}")]]></content>
+	<tabTrigger>wrapAll</tabTrigger>
+	<scope>source.js</scope>
+	<description>wrapAll</description>
+</snippet>

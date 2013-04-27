@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[slideDown()]]></content>
+	<tabTrigger>slideDown</tabTrigger>
+	<scope>source.js</scope>
+	<description>slideDown</description>
+</snippet>

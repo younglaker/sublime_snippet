@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[siblings()]]></content>
+	<tabTrigger>siblings</tabTrigger>
+	<scope>source.js</scope>
+	<description>siblings</description>
+</snippet>
