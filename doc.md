@@ -93,39 +93,17 @@ width: ${1}px;
 - - - 
 
 ## JavaScript snippet
-    
-### animate
-    animate({"${1:property}": "${2:val}"}, ${3:time})
 
-### docready
-    $(document).ready(function() {  
-       aaa
-    });
+### getid
+    document.getElementById("${1:id_name}");
+
+### gettag
+    document.getElementsByTagName("${1:tag_name}");
 
 ### funlk
     function ${1:name}(${2:arg}) { 
        ${3}
     }
-
-### hover
-    hover(function(){
-       ${1:mouseenter}
-    },function(){
-       ${2:mouseleave}
-    });
-
-### mouseenter
-    mouseenter(function(){
-       ${1:content}
-    });
-
-### mouseleave
-    mouseleave(function(){
-       ${1:content}
-    });
-    
-### selector
-    $("${1:name}").${2:fun}
 
 ### setInterval
     ${1:arg} = setInterval(
@@ -146,7 +124,11 @@ width: ${1}px;
        case "${2:2}": ${3:3}; break;
        case "${4:4}": ${5:5}; break;
     }
-    
+
+- - - 
+
+## jQuery snippet
+
 ### ajax
     $.ajax({
        type: "${1:1POST/GET}",
@@ -160,6 +142,36 @@ width: ${1}px;
         ${6:6content}
     };
 
+### animate
+    animate({"${1:property}": "${2:val}"}, ${3:time})
+
+### append
+    append("${1:content}")
+
+### attr
+    attr("${1:attributeName}", "${2:[value]}")
+
+### before
+    before("${1:insert_content}")
+
+### bind
+    bind(${1:1event}, function(){
+        ${2:2func}
+    });
+
+### blur
+    blur()
+
+### change
+    change(function(){
+        ${1:func}
+    });
+
+### docready
+    $(document).ready(function() {  
+       aaa
+    });
+
 ### get
     $.get("${1:1root_path}", { 
         ${2:2data_name}: ${3:3data_val}
@@ -168,10 +180,32 @@ width: ${1}px;
         ${4:4content}
     });
     
+
+### hover
+    hover(function(){
+       ${1:mouseenter}
+    },function(){
+       ${2:mouseleave}
+    });
+
+### mouseenter
+    mouseenter(function(){
+       ${1:content}
+    });
+
+### mouseleave
+    mouseleave(function(){
+       ${1:content}
+    });
+
 ### post
     $.post("${1:1root_path}", { 
         ${2:2data_name}: ${3:3data_val}
     },
     function(msg){
         ${4:4content}
-    });
+    });    
+
+### selector
+    $("${1:name}").${2:fun}
+
