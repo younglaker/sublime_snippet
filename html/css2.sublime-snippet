@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<style type="text/css">
+	${1}
+</style>
+]]></content>
+	<tabTrigger>css</tabTrigger>
+	<description>css</description>
+</snippet>
