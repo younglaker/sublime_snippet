@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[<ul>
+	<li><a href=""><img src="" alt=""></a></li>
+	<li><a href=""><img src="" alt=""></a></li>
+	<li><a href=""><img src="" alt=""></a></li>
+</ul>]]></content>
+	<tabTrigger>ulai</tabTrigger>
+	<description>ul li a img</description>
+</snippet>

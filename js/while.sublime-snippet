@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[while(${1:1condition}) {
+	${2:2func}
+}]]></content>
+	<tabTrigger>while</tabTrigger>
+	<scope>source.js</scope>
+	<description>while</description>
+</snippet>

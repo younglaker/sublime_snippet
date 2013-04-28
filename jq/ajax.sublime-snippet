@@ -9,7 +9,7 @@
 	${5:5content}
 }).fail(function() {
 	${6:6content}
-]]></content>
+});]]></content>
 	<tabTrigger>ajax</tabTrigger>
 	<scope>source.js</scope>
 	<description>ajax</description>

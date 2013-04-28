@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[for(${1:1}; ${2:2}; ${3:3}) {
+	${4:4}
+}]]></content>
+	<tabTrigger>for</tabTrigger>
+	<scope>source.js</scope>
+	<description>for</description>
+</snippet>
