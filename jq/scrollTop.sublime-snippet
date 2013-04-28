@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[scrollTop()]]></content>
+	<tabTrigger>scrollTop</tabTrigger>
+	<scope>source.js</scope>
+	<description>scrollTop</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[scroll(function(){
+	${1:func}
+});]]></content>
+	<tabTrigger>scroll</tabTrigger>
+	<scope>source.js</scope>
+	<description>scroll</description>
+</snippet>
