@@ -1,4 +1,16 @@
-## Here is the format of this doc
+## Code style
+
+1.use double quotation marks, example: style=""
+
+2.has a blank before and after the operator, example: 1 + 1 = 2
+
+3.something about bracket and brace will like this : 
+
+    function(arg) {
+    
+    }
+
+## Format of this doc
 
 ### shotcut name
 the content will display if you use this shotcut
