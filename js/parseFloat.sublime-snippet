@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[parseFloat($1);]]></content>
+	<tabTrigger>parseFloat</tabTrigger>
+	<scope>source.js</scope>
+	<description>parseFloat</description>
+</snippet>

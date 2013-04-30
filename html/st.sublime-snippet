@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[style="$1"]]></content>
+	<tabTrigger>st</tabTrigger>
+	<description>style</description>
+</snippet>

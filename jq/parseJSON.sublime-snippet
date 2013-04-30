@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[$.parseJSON($1);]]></content>
+	<tabTrigger>parseJSON</tabTrigger>
+	<scope>source.js</scope>
+	<description>$.parseJSON</description>
+</snippet>
