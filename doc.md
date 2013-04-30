@@ -43,6 +43,9 @@ the content will display if you use this shotcut
         ${1}
     </style>
 
+### icon
+    <link rel="shortcut icon" href="favicon.ico">
+
 ### js1
     <script type="text/javascript" src="${1}"></script>
 
