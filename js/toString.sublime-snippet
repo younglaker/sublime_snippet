@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[toString()]]></content>
+	<content><![CDATA[toString();]]></content>
 	<tabTrigger>toString</tabTrigger>
 	<scope>source.js</scope>
 	<description>toString</description>

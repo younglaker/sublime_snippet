@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[<ul>
+	<content><![CDATA[<ul class="$1">
 	<li><a href=""><img src="" alt=""></a></li>
 	<li><a href=""><img src="" alt=""></a></li>
 	<li><a href=""><img src="" alt=""></a></li>
