@@ -1,6 +1,6 @@
 <snippet>
-	<content>dispaly: block;</content>
+	<content>display: block;</content>
 	<tabTrigger>disbl</tabTrigger>
-	<description>dispaly: block;</description>
+	<description>display: block;</description>
 	<scope>source.css</scope>
 </snippet>

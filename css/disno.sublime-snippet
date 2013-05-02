@@ -1,6 +1,6 @@
 <snippet>
-	<content>dispaly: none;</content>
+	<content>display: none;</content>
 	<tabTrigger>disno</tabTrigger>
-	<description>dispaly: none;</description>
+	<description>display: none;</description>
 	<scope>source.css</scope>
 </snippet>
