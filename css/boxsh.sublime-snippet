@@ -1,0 +1,6 @@
+<snippet>
+	<content>box-shadow: ${1:h-shadow}px ${2:v-shadow}px ${3:blur}px ${4:spread}px #${5:color};</content>
+	<tabTrigger>boxsh</tabTrigger>
+	<description>box-shadow</description>
+	<scope>source.css</scope>
+</snippet>
