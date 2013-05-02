@@ -1,0 +1,6 @@
+<snippet>
+	<content>dispaly: block;</content>
+	<tabTrigger>disbl</tabTrigger>
+	<description>dispaly: block;</description>
+	<scope>source.css</scope>
+</snippet>

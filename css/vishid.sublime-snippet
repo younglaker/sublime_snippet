@@ -1,0 +1,6 @@
+<snippet>
+	<content>visibility: hidden;</content>
+	<tabTrigger>vishid</tabTrigger>
+	<description>visibility: hidden;</description>
+	<scope>source.css</scope>
+</snippet>

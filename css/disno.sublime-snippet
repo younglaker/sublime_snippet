@@ -1,0 +1,6 @@
+<snippet>
+	<content>dispaly: none;</content>
+	<tabTrigger>disno</tabTrigger>
+	<description>dispaly: none;</description>
+	<scope>source.css</scope>
+</snippet>
