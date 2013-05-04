@@ -1,5 +1,5 @@
 <snippet>
-	<content>border: {$1}px {$2} #{$3}</content>
+	<content>border: ${1}px solid #${2}</content>
 	<tabTrigger>borderp</tabTrigger>
 	<description>border:</description>
 	<scope>source.css</scope>
