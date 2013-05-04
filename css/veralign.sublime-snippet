@@ -1,0 +1,6 @@
+<snippet>
+	<content>vertical-align: middle;</content>
+	<tabTrigger>veralign</tabTrigger>
+	<description>vertical-align: middle;</description>
+	<scope>source.css</scope>
+</snippet>

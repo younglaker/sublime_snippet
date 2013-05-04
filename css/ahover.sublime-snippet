@@ -1,0 +1,6 @@
+<snippet>
+	<content>a:hover{$1}</content>
+	<tabTrigger>ahover</tabTrigger>
+	<description>a:hover</description>
+	<scope>source.css</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content>a:visited{$1}</content>
+	<tabTrigger>avisited</tabTrigger>
+	<description>a:visited</description>
+	<scope>source.css</scope>
+</snippet>

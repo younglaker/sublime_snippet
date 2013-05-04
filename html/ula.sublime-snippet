@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[<ul class="$1">
-	<li><a href="$1"></a></li>
 	<li><a href="$2"></a></li>
 	<li><a href="$3"></a></li>
+	<li><a href="$4"></a></li>
 </ul>]]></content>
 	<tabTrigger>ula</tabTrigger>
 	<description>ul li a</description>
