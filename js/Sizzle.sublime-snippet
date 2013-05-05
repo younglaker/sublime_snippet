@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Sizzle("${1:obj}");]]></content>
+	<tabTrigger>Sizzle</tabTrigger>
+	<scope>source.js</scope>
+	<description>Sizzle("")</description>
+</snippet>

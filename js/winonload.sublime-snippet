@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[window.onload = function() {
+	$1
+}]]></content>
+	<tabTrigger>winonload</tabTrigger>
+	<scope>source.js</scope>
+	<description>window.onload</description>
+</snippet>
