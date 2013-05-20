@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[onkeypress = fuction() {
+	${1}
+}]]></content>
+	<tabTrigger>onkeypress</tabTrigger>
+	<scope>source.js</scope>
+	<description>onkeypress()</description>
+</snippet>

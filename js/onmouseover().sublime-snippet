@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[onmouseover = fuction() {
+	${1}
+}]]></content>
+	<tabTrigger>onmouseover</tabTrigger>
+	<scope>source.js</scope>
+	<description>onmouseover()</description>
+</snippet>

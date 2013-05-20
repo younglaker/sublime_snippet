@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[onchange = fuction() {
+	${1}
+}]]></content>
+	<tabTrigger>onchange</tabTrigger>
+	<scope>source.js</scope>
+	<description>onchange()</description>
+</snippet>

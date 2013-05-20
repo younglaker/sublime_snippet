@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[onmouseout = fuction() {
+	${1}
+}]]></content>
+	<tabTrigger>onmouseout</tabTrigger>
+	<scope>source.js</scope>
+	<description>onmouseout()</description>
+</snippet>

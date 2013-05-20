@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[onclick = fuction() {
+	${1}
+}]]></content>
+	<tabTrigger>onclick</tabTrigger>
+	<scope>source.js</scope>
+	<description>onclick()</description>
+</snippet>

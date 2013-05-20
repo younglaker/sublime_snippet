@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[onkeyup = fuction() {
+	${1}
+}]]></content>
+	<tabTrigger>onkeyup</tabTrigger>
+	<scope>source.js</scope>
+	<description>onkeyup()</description>
+</snippet>

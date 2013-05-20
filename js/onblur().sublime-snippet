@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[onblur = fuction() {
+	${1}
+}]]></content>
+	<tabTrigger>onblur</tabTrigger>
+	<scope>source.js</scope>
+	<description>onblur()</description>
+</snippet>

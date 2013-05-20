@@ -1,0 +1,6 @@
+<snippet>
+	<content>left: ${1}px;</content>
+	<tabTrigger>leftp</tabTrigger>
+	<description>leftp</description>
+	<scope>source.css</scope>
+</snippet>

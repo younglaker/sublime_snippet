@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[onmousemove = fuction() {
+	${1}
+}]]></content>
+	<tabTrigger>onmousemove</tabTrigger>
+	<scope>source.js</scope>
+	<description>onmousemove()</description>
+</snippet>
