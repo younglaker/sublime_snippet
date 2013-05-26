@@ -1,0 +1,6 @@
+<snippet>
+	<content>position: relative;</content>
+	<tabTrigger>posi-re</tabTrigger>
+	<description>relative</description>
+	<scope>source.css</scope>
+</snippet>

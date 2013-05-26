@@ -1,0 +1,6 @@
+<snippet>
+	<content>position: absolute;</content>
+	<tabTrigger>posi-ab</tabTrigger>
+	<description>absolute</description>
+	<scope>source.css</scope>
+</snippet>

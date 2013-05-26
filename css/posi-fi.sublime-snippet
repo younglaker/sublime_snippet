@@ -1,0 +1,6 @@
+<snippet>
+	<content>position: fixed;</content>
+	<tabTrigger>posi-fi</tabTrigger>
+	<description>fixed</description>
+	<scope>source.css</scope>
+</snippet>
