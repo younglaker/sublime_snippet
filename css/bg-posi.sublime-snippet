@@ -1,0 +1,6 @@
+<snippet>
+	<content>background-position: ${1}px ${2}px;</content>
+	<tabTrigger>bg-posi</tabTrigger>
+	<description>bg-position</description>
+	<scope>source.css</scope>
+</snippet>
