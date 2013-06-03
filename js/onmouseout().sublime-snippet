@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[onmouseout = fuction() {
+	<content><![CDATA[onmouseout = function() {
 	${1}
 }]]></content>
 	<tabTrigger>onmouseout</tabTrigger>

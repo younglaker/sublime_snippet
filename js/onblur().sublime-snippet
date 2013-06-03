@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[onblur = fuction() {
+	<content><![CDATA[onblur = function() {
 	${1}
 }]]></content>
 	<tabTrigger>onblur</tabTrigger>

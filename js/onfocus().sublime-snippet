@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[onfocus = fuction() {
+	<content><![CDATA[onfocus = function() {
 	${1}
 }]]></content>
 	<tabTrigger>onfocus</tabTrigger>
