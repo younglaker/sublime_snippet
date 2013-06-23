@@ -1,8 +1,7 @@
 <snippet>
-	<content><![CDATA[if(${1:1condition}) {
+	<content><![CDATA[if (${1:1condition}) {
 	${2:2func}
-}
-else {
+} else {
 	${3:3func}
 }]]></content>
 	<tabTrigger>ifelse</tabTrigger>
