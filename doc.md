@@ -11,13 +11,23 @@
 3.something about bracket and brace will like this : 
 
     function(arg) {
+        do sth;
+    }
     
+    if (true) {
+        do sth;
+    } else {
+        do sth;
+    }
+    
+    for (var i; i < 5; i++) {
+        do sth;
     }
 
 4.have a blank after colon, semicolen and comma, example:
 
     margin: 5px;
-    for(var i; i < 5; i++)
+    for (var i; i < 5; i++)
     test(arg1, arg2, arg3)
 
 5.if the arg has [], means mot must value, example:
