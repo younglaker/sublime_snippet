@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[O("${1:name}").${2:fun}]]></content>
+	<tabTrigger>Oselect</tabTrigger>
+	<scope>source.js</scope>
+	<description>O("${1}")</description>
+</snippet>
