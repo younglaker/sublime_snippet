@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[shift();]]></content>
-	<tabTrigger>shift</tabTrigger>
-	<scope>source.js</scope>
-	<description>shift</description>
-</snippet>

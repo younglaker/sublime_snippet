@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[join(${1:[separator]});]]></content>
-	<tabTrigger>join</tabTrigger>
-	<scope>source.js</scope>
-	<description>join</description>
-</snippet>

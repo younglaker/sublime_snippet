@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[sort(${1:[sortby]});]]></content>
-	<tabTrigger>sort</tabTrigger>
-	<scope>source.js</scope>
-	<description>sort</description>
-</snippet>

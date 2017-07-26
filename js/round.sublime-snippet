@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[round($1);]]></content>
-	<tabTrigger>round</tabTrigger>
-	<scope>source.js</scope>
-	<description>round</description>
-</snippet>

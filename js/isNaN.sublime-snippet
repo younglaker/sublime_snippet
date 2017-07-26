@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[isNaN();]]></content>
-	<tabTrigger>isNaN</tabTrigger>
-	<scope>source.js</scope>
-	<description>isNaN</description>
-</snippet>

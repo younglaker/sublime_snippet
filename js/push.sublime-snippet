@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[push(${1:newelement1,newelement2,....});]]></content>
-	<tabTrigger>push</tabTrigger>
-	<scope>source.js</scope>
-	<description>add ele</description>
-</snippet>

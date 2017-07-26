@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[document.createElement("${1:ele_name}")]]></content>
+	<tabTrigger>createElement</tabTrigger>
+	<scope>source.js</scope>
+	<description>createElement</description>
+</snippet>

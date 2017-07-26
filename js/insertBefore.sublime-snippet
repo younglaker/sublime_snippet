@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[insertBefore("${1:}");]]></content>
-	<tabTrigger>insertBefore</tabTrigger>
-	<scope>source.js</scope>
-	<description>insertBefore</description>
-</snippet>

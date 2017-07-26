@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[clearTimeout(setTimeout_variable)]]></content>
+	<tabTrigger>clearTimeout</tabTrigger>
+	<scope>source.js</scope>
+	<description>clearTimeout</description>
+</snippet>

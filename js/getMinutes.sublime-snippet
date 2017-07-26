@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getMinutes();]]></content>
-	<tabTrigger>getMinutes</tabTrigger>
-	<scope>source.js</scope>
-	<description>getMinutes</description>
-</snippet>

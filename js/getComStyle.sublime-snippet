@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[window.getComputedStyle(${1:id}, null).${2:property};]]></content>
-	<tabTrigger>getComStyle</tabTrigger>
-	<scope>source.js</scope>
-	<description>getComputedStyle</description>
-</snippet>

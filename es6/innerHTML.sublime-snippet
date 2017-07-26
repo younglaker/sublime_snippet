@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[innerHTML = "${1:message}"]]></content>
+	<tabTrigger>innerHTML</tabTrigger>
+	<scope>source.js</scope>
+	<description>innerHTML</description>
+</snippet>

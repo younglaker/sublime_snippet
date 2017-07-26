@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getAttribute("${1:attr_name}")]]></content>
+	<tabTrigger>getAttribute</tabTrigger>
+	<scope>source.js</scope>
+	<description>getAttribute</description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:id}.currentStyle.${2:property};]]></content>
-	<tabTrigger>currStyle</tabTrigger>
-	<scope>source.js</scope>
-	<description>currentStyle</description>
-</snippet>

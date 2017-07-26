@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[toUpperCase();]]></content>
-	<tabTrigger>toUpperCase</tabTrigger>
-	<scope>source.js</scope>
-	<description>toUpperCase</description>
-</snippet>

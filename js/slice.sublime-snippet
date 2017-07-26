@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[slice(${1:1start(include)}, ${2:2end(not_include)});]]></content>
-	<tabTrigger>slice</tabTrigger>
-	<scope>source.js</scope>
-	<description>slice</description>
-</snippet>

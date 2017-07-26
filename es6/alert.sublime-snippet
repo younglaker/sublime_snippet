@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[alert("${1:message}")]]></content>
+	<tabTrigger>alert</tabTrigger>
+	<scope>source.js</scope>
+	<description>alert</description>
+</snippet>

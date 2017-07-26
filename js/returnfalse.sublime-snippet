@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[return false;]]></content>
-	<tabTrigger>returnfalse</tabTrigger>
-	<scope>source.js</scope>
-	<description>return false</description>
-</snippet>
