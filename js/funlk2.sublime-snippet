@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[function ${1:name} (${2:arg}) {
+	<content><![CDATA[${1:name} (${2:arg}) {
     ${3}
 }]]></content>
-	<tabTrigger>funlk</tabTrigger>
+	<tabTrigger>funlk2</tabTrigger>
 	<scope>source.js</scope>
 	<description>lk</description>
 </snippet>

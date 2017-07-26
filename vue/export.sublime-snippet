@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[export default {
+	${1}
+}
+]]></content>
+	<tabTrigger>export</tabTrigger>
+	<!-- <scope>source.vue</scope> -->
+	<description>snip</description>
+</snippet>

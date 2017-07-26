@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[<template>
+	${1}
+</template>
+
+<script>
+	export default {}
+</script>
+
+<style lang="stylus">
+</style>
+]]></content>
+	<tabTrigger>vtmp</tabTrigger>
+	<!-- <scope>source.vue</scope> -->
+	<description>snip</description>
+</snippet>
